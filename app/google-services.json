@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220870431700",
+    "project_id": "chat-6f554",
+    "storage_bucket": "chat-6f554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220870431700:android:6a63f837a77f5a0c687c41",
+        "android_client_info": {
+          "package_name": "com.skytechnohub.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220870431700-4ccbbet9ejk8r3dgqn1sok9voesuco4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skytechnohub.chat",
+            "certificate_hash": "348fe6131cebf52593e7022b85ccf1bcac4e4b0b"
+          }
+        },
+        {
+          "client_id": "220870431700-3h0so941kf9k73gcjnv0hp5pv8fqbcgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7FdBBtaIRlS6l8lFS-lNt0WKHSY3SELE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220870431700-3h0so941kf9k73gcjnv0hp5pv8fqbcgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
